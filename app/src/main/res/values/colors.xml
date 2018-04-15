@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9b9b9b</color>
+    <color name="colorPrimaryDark">#4b4b4b</color>
+    <color name="colorAccent">#d9101d</color>
+
+    <!--Cores LetsRock
+    <color name="colorPrimaryTxt">#9b9b9b</color>
+    <color name="colorPrimaryDarkLrRed">#4b4b4b</color>
+    <color name="colorLrBackG">#d9101d</color>
+    -->
+    <!--Cores Form
+    <color name="colorPrimaryReceita">#CCCCCC</color>
+    <color name="colorPrimaryDarkReceita">#c6c6c6</color>
+    <color name="colorAccentReceita">#dddddd</color>
+    !-->
+
+    <color name="plus">#40f28b</color>
+    <color name="minus">#f26140</color>
+    <color name="plus_transp">#6440f28b</color>
+    <color name="minus_transp">#64f26140</color>
+    <color name="card_bg_color">#fceec0</color>
+</resources>
+
+
