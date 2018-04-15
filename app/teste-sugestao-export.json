@@ -1,0 +1,85 @@
+{
+  "sugestoes" : {
+    "id1" : {
+      "deslikes" : 0,
+      "id" : "id1",
+      "likes" : 1,
+      "link" : "www.google.com",
+      "nome" : "Cry Thunder",
+      "status" : 0
+    },
+    "id2" : {
+      "deslikes" : 1,
+      "id" : "id2",
+      "likes" : 0,
+      "link" : "www.google.com",
+      "nome" : "Sweet Child o' Mine",
+      "status" : 0
+    },
+    "id3" : {
+      "deslikes" : 0,
+      "id" : "id3",
+      "likes" : 1,
+      "link" : "www.google.com",
+      "nome" : "One",
+      "status" : 0
+    },
+    "id4" : {
+      "deslikes" : 0,
+      "id" : "id4",
+      "likes" : 1,
+      "link" : "www.google.com",
+      "nome" : "Heroes of Our Time",
+      "status" : 0
+    },
+    "id5" : {
+      "deslikes" : 0,
+      "id" : "id5",
+      "likes" : 1,
+      "link" : "www.google.com",
+      "nome" : "Carry On",
+      "status" : 0
+    }
+  },
+  "usuarios" : {
+    "YWRtaW5AbGV0c3JvY2suY29t" : {
+      "email" : "admin@letsrock.com",
+      "idUsuario" : "YWRtaW5AbGV0c3JvY2suY29t",
+      "instrumento" : "violao",
+      "nome" : "admin"
+    },
+    "user_1" : {
+      "email" : "hygor@mail.com",
+      "id" : "user_1",
+      "nome" : "hygor"
+    },
+    "user_2" : {
+      "email" : "eduardo@mail.com",
+      "id" : "user_2",
+      "nome" : "eduardo"
+    }
+  },
+  "votos" : {
+    "YWRtaW5AbGV0c3JvY2suY29t" : {
+      "id1" : true,
+      "id2" : false,
+      "id3" : true,
+      "id4" : true,
+      "id5" : true
+    },
+    "user_1" : {
+      "id1" : true,
+      "id2" : false,
+      "id3" : true,
+      "id4" : true,
+      "id5" : true
+    },
+    "user_2" : {
+      "id1" : true,
+      "id2" : true,
+      "id3" : true,
+      "id4" : true,
+      "id5" : true
+    }
+  }
+}
